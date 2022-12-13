@@ -3,7 +3,7 @@
 Static information of user/applicant.
 
 Tech Stack:
- FrontEnd - ReactJs, Bootstrap5
+ FrontEnd - EJs, Bootstrap5
   
  BackEnd - NodeJs, ExpressJs, MongoDb
 
